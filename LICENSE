@@ -1,0 +1,80 @@
+MIT License
+
+Copyright (c) 2024 Multi-Agent Delivery Communication System
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 📄 License Details
+
+### What the MIT License Allows:
+✅ **Commercial Use** - Use in commercial applications
+✅ **Modification** - Modify and adapt the code
+✅ **Distribution** - Distribute the software
+✅ **Private Use** - Use in private projects
+✅ **Sublicensing** - Include in other licensed software
+
+### What the MIT License Requires:
+📝 **Copyright Notice** - Include the original copyright notice
+📝 **License Text** - Include the MIT License text
+
+### What the MIT License Does NOT Require:
+❌ **Source Code** - No requirement to share source code
+❌ **Attribution** - No requirement to credit original authors
+❌ **Same License** - No requirement to use MIT License for derivatives
+
+---
+
+## 🔗 Third-Party Licenses
+
+This project uses several third-party libraries and services. Please review their respective licenses:
+
+### Backend Dependencies:
+- **FastAPI**: MIT License
+- **Google Cloud APIs**: Google Cloud Terms of Service
+- **Agno**: Check with Agno project for license terms
+- **Python packages**: Various licenses (see requirements.txt for details)
+
+### Frontend Dependencies:
+- **Next.js**: MIT License
+- **React**: MIT License
+- **Tailwind CSS**: MIT License
+- **Other packages**: Various licenses (see package.json for details)
+
+---
+
+## 📞 License Questions
+
+If you have questions about this license or need a different license for your use case, please:
+
+1. **Review the MIT License** at: https://opensource.org/licenses/MIT
+2. **Contact the project maintainers** through GitHub issues
+3. **Consult with legal counsel** for commercial or enterprise use
+
+---
+
+## 🌟 Why MIT License?
+
+The MIT License was chosen because it:
+- **Promotes adoption** by being very permissive
+- **Encourages innovation** by allowing commercial use
+- **Simplifies compliance** with minimal requirements
+- **Widely recognized** and trusted by the open-source community
+- **Compatible** with most other open-source licenses
